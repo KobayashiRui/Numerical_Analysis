@@ -40,4 +40,4 @@ CNN(
 ```
 
 ## NN_fashion_mnist_preview.py
-fashion_mnistにて出力されたテキストデータからグラフを表示する
+NN_fashion_mnist.pyにて出力されたテキストデータからグラフを表示する
